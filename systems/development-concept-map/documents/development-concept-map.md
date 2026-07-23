@@ -1,13 +1,3 @@
----
-nextwork_uuid: 016aca77-dcc0-464c-9bf0-c093ca99d27e
-original_filename: legendary-016aca77-dcc0-464c-9bf0-c093ca99d27e.md
-mastery_track: real-estate-development
-catalog_rank: 1
-onboarded_to: systems/development-concept-map/
-onboarded_at: 2026-07-23
-schema: nextwork-generator
----
-
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Real Estate Dev: The Whole Field
