@@ -18,10 +18,6 @@ Algorithmic underwriting and pro-forma modeling, an automated valuation model, G
 
 **What it isn't.** Not a degree, and no claim past what each build proves. Raising capital is a securities activity, so every memo, pitch, or syndication build here is an educational mock-up and not a solicitation. Any real use needs securities counsel. Not legal or financial advice.
 
-## Progress
+## The road to 100
 
-| Field | Value |
-|-------|-------|
-| Status | 2 / 100 committed |
-
-Start at rank 1 in `ideas/mastery-real-estate-development-100/mastery-real-estate-development-100.md`. Full catalog: [`INDEX.md`](./INDEX.md).
+**1 shipped, 99 to go.** Real builds, in the open, one at a time. Each one lands in the catalog with its own architecture, a walkthrough, and a self-check: **[browse the catalog in `INDEX.md`](./INDEX.md)**.
