@@ -4,7 +4,9 @@ This mastery repository is built from NextWork projects, created via NextWork's 
 
 **Original NextWork projects:**
 
-_None onboarded yet. Completed builds are listed here as they land._
+- Build a Route-Decision Model
+- Build a Stage-Gate Lifecycle Tracker
+- Real Estate Dev: The Whole Field
 
 ## About NextWork
 
